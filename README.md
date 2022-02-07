@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Ashutoshyadav276
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Ashutoshyadav276/Ashutoshyadav276 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hello, I am Ashutosh kumar
+- 💻 I’m currently working on php.
+- 👀 I’m interested in full stack web development.
+- 🌱 I’m currently learning react.
+- 💞️ I’m looking to collaborate on youtube.
+- 📫 How to reach me: Instagram : @official_ashu_yadav.
+- 👌Pronounce: He/his.
+- 😍 Fun fact: I almost spend my weekends in watching movies.
