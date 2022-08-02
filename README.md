@@ -1,6 +1,6 @@
 # Hello, I am Ashutosh kumar
-- 💻 I’m a full stack MERN developer currently working on 
-    several projects which are based on both front-end and backend.
+- 💻 I’m a full stack web developer currently working on 
+    my own projects which are based on both front-end and backend.
 - 👀 I’m interested in full stack web development.
 - 🌱 I’m currently learning react.
 - 💞️ I’m looking to collaborate on youtube.
